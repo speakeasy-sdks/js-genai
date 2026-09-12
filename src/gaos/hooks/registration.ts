@@ -1,11 +1,3 @@
-/**
- * @license
- * Copyright 2026 Google LLC
- * SPDX-License-Identifier: Apache-2.0
- *
- * g3-prettier-ignore-file
- */
-
 import { GoogleGenAIAuthHook } from "./google-genai-auth.js";
 import { Hooks } from "./types.js";
 

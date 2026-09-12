@@ -1,11 +1,3 @@
-/**
- * @license
- * Copyright 2026 Google LLC
- * SPDX-License-Identifier: Apache-2.0
- *
- * g3-prettier-ignore-file
- */
-
 import * as models from "../models/index.js";
 import { env } from "../lib/env.js";
 import { RequestInput } from "../lib/http.js";
